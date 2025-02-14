@@ -1,0 +1,89 @@
+body { text-align: center;
+    background-color: bisque;
+}
+#header{
+    background-color: darkblue;
+    text-decoration: solid;
+}
+#star{
+    text-align: center;
+}
+#p {
+    text-decoration: solid;
+}
+
+#navbar { border: blue 2px solid;
+     background-color: azure;
+     
+    margin: 3%;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+    
+
+#imgs{width: 20%;
+    height: 200px;
+    display: flex;
+    
+} 
+   .coffe_img{
+    width: 15%;
+    width: 20%;
+        height: 200px;
+        display: flex;}
+        #hang{
+            border: 2px solid;
+    width: 95%;
+    height: 35px;
+    display: flex;
+    justify-content: space-around;
+        }
+
+    #bar{border: blue 2px solid;
+        margin: 3%;
+        height: 50px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        
+        }
+
+    #past{
+        border: blue 2px solid;
+       margin: 3%;
+       height: 50px;
+       display: flex;
+       justify-content: space-evenly;
+       align-items: center;
+    }
+ 
+   #pastries_img{
+    width: 20%;
+        height: 2px;
+        display: flex;
+    justify-content: center;}
+
+   #footer{
+    background-color: aqua;
+    border: 2px solid;
+    width: 95%;
+    height: 35px;
+    display: flex;
+    justify-content: space-around;
+   } 
+   #imges{  
+    width: 20%;
+    height: 200px;
+    display: flex;}
+
+    #pass{ border: 2px solid;
+        width: 95%;
+        height: 35px;
+        display: flex;
+        justify-content: space-around;
+    }
+   
+   
